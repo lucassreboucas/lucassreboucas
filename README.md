@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Lucas 🖐️
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-souza-rebou%C3%A7as-1a473a318/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucassouzarebouças)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassreboucas&show_icons=true&theme=radical)
 
