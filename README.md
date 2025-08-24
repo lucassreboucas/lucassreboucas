@@ -10,6 +10,6 @@
 </div>
 
 ## Sobre mim:
-- 22 anos
+- 23 anos
 - Estudante de Ciência da Computação
 - Buscando me aperfeiçoar
